@@ -101,5 +101,5 @@
 
 ## ライセンス・クレジット
 
-QuestQueries #031 — developed by Nicobikke / MonoMonoMonozu  
+QuestQueries #031 
 Philosophy: *「モヤモヤを結晶化したらアプリになった」*
